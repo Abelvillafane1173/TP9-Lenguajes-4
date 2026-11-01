@@ -17,7 +17,7 @@ const Contact = () => {
       <div className="contacto-datos">
         <p>Dirección: Alvarado 1286, Salta Capital</p>
         <p>Teléfono: 3876111787</p>
-        <p>Email: ver28san@gmail.com.ar</p>
+        <p>Email: laprida_1173@outlook.es</p>
       </div>
         <form onSubmit={enviarFormulario}>
         <label htmlFor="nombre">Nombre</label>

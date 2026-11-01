@@ -1,0 +1,49 @@
+.contacto-datos {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.contacto-datos p {
+  margin: 0 0 6px 0;
+}
+
+.contact form {
+  max-width: 450px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.contact label {
+  font-size: 14px;
+  margin: 12px 0 5px 0;
+}
+
+.contact input,
+.contact textarea {
+  padding: 9px;
+  border: 1px solid #aaaaaa;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.contact form button {
+  margin-top: 18px;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.contact form button:hover {
+  background-color: #333333;
+}
+
+.contact .mensaje {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 20px;
+}
